@@ -13,9 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-
 
 ### Screenshot
 
@@ -24,11 +21,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Segunstar/solution-challenges](https://github.com/Segunstar/solution-challenges)
+- Live Site URL: [https://segunstar.github.io/](https://segunstar.github.io/)
 
 ## My process
-I started with html5 markup before moving to css to design 
+I started with Html5 markup before using Css to design the challenge.
 
 ### Built with
 
@@ -49,8 +46,8 @@ I learned how to use margin and padding to Succesfully create the qr code
 
 ## Author
 
-- Name - [Ekundayo Isegun]()
-- Frontend Mentor - [@Segunstar](https://www.frontendmentor.io/profile/Ekundayo Isegun)
+- Name - [Ekundayo Isegun](https://https://github.com/Segunstar)
+- Frontend Mentor - [@Segunstar](https://www.frontendmentor.io/profile/EkundayoIsegun)
 
 ## Acknowledgments
 
