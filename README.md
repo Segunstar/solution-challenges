@@ -47,7 +47,7 @@ I learned how to use margin and padding to Succesfully create the qr code
 ## Author
 
 - Name - [Ekundayo Isegun](https://https://github.com/Segunstar)
-- Frontend Mentor - [@Segunstar](https://www.frontendmentor.io/profile/EkundayoIsegun)
+- Frontend Mentor - [@Segunstar](https://www.frontendmentor.io/profile/Segunstar)
 
 ## Acknowledgments
 
