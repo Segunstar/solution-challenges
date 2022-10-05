@@ -3,6 +3,8 @@ body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   background-color: lightblue;
+  padding: 0;
+  margin: 0;
 }
 img {
   max-width: 100%;
@@ -20,10 +22,9 @@ img {
   border-radius: 15px;
   box-sizing: border-box;
 }
-/* to adjust/change the text,heading use the #heading and #text  */
+/* to adjust/change the text,heading use the h1 and #text  */
 
-#heading {
-  font-weight: 700;
+h1 {
   font-size: 1.25em;
 }
 #text {

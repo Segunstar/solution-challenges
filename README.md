@@ -51,5 +51,5 @@ I learned how to use margin and padding to Succesfully create the qr code
 
 ## Acknowledgments
 
-My acknolegdements to God, and my Parent and my Co-designers who has helped me to maintain the web development/design that I am currently learning.
+My acknowlegdements to God, my Parents and my Co-designers who has helped me to maintain the web development/design that I am currently learning.
 
