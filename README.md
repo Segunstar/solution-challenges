@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/Segunstar/solution-challenges](https://github.com/Segunstar/solution-challenges)
-- Live Site URL: [https://segunstar.github.io/](https://segunstar.github.io/)
+- Live Site URL: [https://segunstar.github.io/qr-code-solution](https://segunstar.github.io/qr-code-solution/)
 
 ## My process
 I started with Html5 markup before using Css to design the challenge.
